@@ -1,2 +1,2 @@
 # Programmierung
-RWTH-Aachen Programming Module
+RWTH-Aachen Programming Module ∑
